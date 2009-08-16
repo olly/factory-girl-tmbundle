@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>factory.sequence(:${1:field}) {|n| ${2:"${3:foo_#{n\}}${4:@email.com}"} }
+f.</string>
+	<key>name</key>
+	<string>sequence</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>f.</string>
+	<key>uuid</key>
+	<string>5E85ED1A-97A9-44A0-BBAC-90D2E5CE26B3</string>
+</dict>
+</plist>
