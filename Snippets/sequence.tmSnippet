@@ -10,7 +10,7 @@ f.$0</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>f.</string>
+	<string>f.s</string>
 	<key>uuid</key>
 	<string>5E85ED1A-97A9-44A0-BBAC-90D2E5CE26B3</string>
 </dict>
