@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>factory.association :${1:name}${2:, :factory =&gt; :${3:factory_name}}
-factory.$0</string>
+f.$0</string>
 	<key>name</key>
 	<string>association</string>
 	<key>scope</key>
