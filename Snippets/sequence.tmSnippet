@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>factory.${1:attribute} ${2:'${3:value}'}
+	<string>factory.sequence(:${1:field}) {|n| ${2:"${3:foo_#{n\}}${4:@email.com}"} }
 f.$0</string>
 	<key>name</key>
-	<string>attribute</string>
+	<string>sequence</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>f.</string>
+	<string>f.s</string>
 	<key>uuid</key>
-	<string>A13D3CED-841F-4562-B8FE-BD093A5A6ADE</string>
+	<string>5E85ED1A-97A9-44A0-BBAC-90D2E5CE26B3</string>
 </dict>
 </plist>
