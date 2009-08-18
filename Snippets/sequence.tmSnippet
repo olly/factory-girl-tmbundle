@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>factory.sequence(:${1:field}) {|n| ${2:"${3:foo_#{n\}}${4:@email.com}"} }
+	<string>f.sequence(:${1:field}) {|n| ${2:"${3:foo_#{n\}}${4:@email.com}"} }
 f.$0</string>
 	<key>name</key>
 	<string>sequence</string>

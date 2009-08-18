@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>factory.${1:attribute} ${2:'${3:value}'}
+	<string>f.${1:attribute} ${2:'${3:value}'}
 f.$0</string>
 	<key>name</key>
 	<string>attribute</string>
